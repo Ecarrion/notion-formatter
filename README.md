@@ -15,11 +15,11 @@ Takes rough content and applies a consistent formatting system:
 
 ### Claude Code
 
-Add this repo as a plugin marketplace, then install the plugin:
+Start a Claude Code interactive session (`claude` in your terminal), then run these slash commands inside the session:
 
-```bash
-claude /plugin marketplace add github:Ecarrion/notion-formatter
-claude /plugin install notion-formatter
+```
+/plugin marketplace add github:Ecarrion/notion-formatter
+/plugin install notion-formatter
 ```
 
 ### Cursor
