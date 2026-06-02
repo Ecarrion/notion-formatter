@@ -1,6 +1,6 @@
 # Notion Document Formatter
 
-A formatting skill that makes Notion documents visually appealing and easy to scan. Based on the style used in the [Customer Portal: iCare Parity Analysis](https://www.notion.so/Customer-Portal-iCare-Parity-Analysis-36f5f445bd3180e58af7db3b8467cde6) document.
+A formatting skill that makes Notion documents visually appealing and easy to scan.
 
 ## What it does
 
