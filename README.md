@@ -28,7 +28,7 @@ Copy the skill into your project:
 
 ```bash
 mkdir -p .cursor/skills/notion-formatter
-cp skills/notion-formatter/SKILL.md .cursor/skills/notion-formatter/SKILL.md
+cp plugins/notion-formatter/skills/notion-formatter/SKILL.md .cursor/plugins/notion-formatter/skills/notion-formatter/SKILL.md
 ```
 
 Or add as a remote rule in Settings > Rules > Add Remote Rule (GitHub) with this repo's URL.
@@ -46,11 +46,11 @@ Or copy manually into your project or home directory:
 ```bash
 # Project-level (auto-discovered from .agents/skills/)
 mkdir -p .agents/skills/notion-formatter
-cp skills/notion-formatter/SKILL.md .agents/skills/notion-formatter/SKILL.md
+cp plugins/notion-formatter/skills/notion-formatter/SKILL.md .agents/plugins/notion-formatter/skills/notion-formatter/SKILL.md
 
 # Or user-level (all projects)
 mkdir -p ~/.codex/skills/notion-formatter
-cp skills/notion-formatter/SKILL.md ~/.codex/skills/notion-formatter/SKILL.md
+cp plugins/notion-formatter/skills/notion-formatter/SKILL.md ~/.codex/plugins/notion-formatter/skills/notion-formatter/SKILL.md
 ```
 
 ## Usage
