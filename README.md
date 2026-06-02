@@ -24,14 +24,11 @@ Start a Claude Code interactive session (`claude` in your terminal), then run th
 
 ### Cursor
 
-Copy the skill into your project:
+In Cursor's chat, ask it to create the skill from the repo:
 
-```bash
-mkdir -p .cursor/skills/notion-formatter
-cp plugins/notion-formatter/skills/notion-formatter/SKILL.md .cursor/plugins/notion-formatter/skills/notion-formatter/SKILL.md
 ```
-
-Or add as a remote rule in Settings > Rules > Add Remote Rule (GitHub) with this repo's URL.
+/create-skill from the skill in https://github.com/Ecarrion/notion-formatter
+```
 
 ### Codex
 
