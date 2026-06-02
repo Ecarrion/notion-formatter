@@ -18,7 +18,7 @@ Takes rough content and applies a consistent formatting system:
 Start a Claude Code interactive session (`claude` in your terminal), then run these slash commands inside the session:
 
 ```
-/plugin marketplace add github:Ecarrion/notion-formatter
+/plugin marketplace add Ecarrion/notion-formatter
 /plugin install notion-formatter
 ```
 
