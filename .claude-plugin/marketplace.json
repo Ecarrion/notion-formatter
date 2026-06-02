@@ -1,0 +1,16 @@
+{
+  "name": "notion-formatter",
+  "owner": {
+    "name": "Ernesto Carrion"
+  },
+  "metadata": {
+    "description": "Notion document formatting skill for visually appealing, scannable pages"
+  },
+  "plugins": [
+    {
+      "name": "notion-formatter",
+      "source": ".",
+      "description": "Format and improve Notion documents with color-coded sections, callouts, capability tables, toggle headings, and conversational tone"
+    }
+  ]
+}
